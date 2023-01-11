@@ -1,0 +1,1 @@
+pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
